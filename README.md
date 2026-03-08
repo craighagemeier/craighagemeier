@@ -1,6 +1,6 @@
 Hi, I'm Craig Hagemeier.
 
-I'm a frontend engineer focused on building scalable UI components, design systems, and maintainable web architectures. I care about clean, production-ready code and thoughtful developer experience.
+I'm a frontend engineer focused on building scalable UI components and design systems. I care about clear architecture, production-ready code, and thoughtful developer experience.
 
 Personal site: [craighagemeier.com](https://craighagemeier.com)
 
