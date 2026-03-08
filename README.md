@@ -6,8 +6,8 @@ Personal site: [craighagemeier.com](https://craighagemeier.com)
 
 ### Selected projects:
 
-- [Personal website](https://github.com/craighagemeier/craig-hagemeier-site) — Next.js site and component architecture experiments  
-- [Tools](https://github.com/craighagemeier/tools) — small utilities and experiments used across personal projects
+- [Personal website](https://github.com/craighagemeier/craig-hagemeier-site): Next.js site and component architecture experiments  
+- [Tools](https://github.com/craighagemeier/tools): small utilities and experiments used across personal projects
 
 ## Current focus
 
